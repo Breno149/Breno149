@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <pre class="tab">
-Cursando Instituto PROA - Vila Olímpia, São Paulo - SP - Brasil
+Ex.Aluno do Instituto PROA - Vila Olímpia, São Paulo - SP - Brasil
 Aprendizagem Java focada em backend.
 Aprendizagem de HTML, CSS e banco de dados.
 </pre>
